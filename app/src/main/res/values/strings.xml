@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">20180140103 - Rama Soni Ravictor</string>
+    <string name="labelapp">PENDAFTARAN</string>
+    <string name="nm_dp">Nama Depan</string>
+    <string name="nm_bk">Nama Belakang</string>
+    <string name="tpt_lahir">Tempat Lahir</string>
+    <string name="Tgl_lahir">Tanggal Lahir</string>
+    <string name="almt">Alamat</string>
+    <string name="sex">Jenis Kelamin</string>
+    <string name="tlp">Telepon</string>
+    <string name="mail">Email</string>
+    <string name="ps">Password</string>
+    <string name="pass">Masukkan Password Kembali</string>
+    <string name="bt_dftr">DAFTAR</string>
+    <string name="bt_bck">KEMBALI</string>
+</resources>
